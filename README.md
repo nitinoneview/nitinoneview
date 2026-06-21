@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nitin Kashyap 👋</h1>
-<h3 align="center">Production Support Engineer | Linux & AWS • Apache • LAMP Stack • Bash • GitHub | Building Monitoring Dashboards</h3>
+<h3 align="center">Production Support Engineer • Linux • AWS • Apache • Bash • SQL</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nitinoneview"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -26,7 +26,7 @@ I can take a website from zero to live, fully on my own:
 
 `Launch EC2 instance` → `Configure Linux (RHEL/Ubuntu)` → `Install & configure Apache` → `Set up MySQL/Oracle DB` → `Deploy & host the website` → `Basic troubleshooting & monitoring`
 
-This is real, hands-on production support work I've done.
+This is real, hands-on production support work I've done — not just theory.
 
 ---
 
