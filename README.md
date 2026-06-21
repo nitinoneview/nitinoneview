@@ -26,7 +26,7 @@ I can take a website from zero to live, fully on my own:
 
 `Launch EC2 instance` → `Configure Linux (RHEL/Ubuntu)` → `Install & configure Apache` → `Set up MySQL/Oracle DB` → `Deploy & host the website` → `Basic troubleshooting & monitoring`
 
-This is real, hands-on production support work I've done — not just theory.
+This is real, hands-on production support work I've done.
 
 ---
 
